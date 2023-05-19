@@ -1,0 +1,7 @@
+.vscode
+.idea
+bak
+*.bak
+*.old
+
+tools/goctl/goctl
